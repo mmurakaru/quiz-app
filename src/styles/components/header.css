@@ -1,0 +1,9 @@
+.header {
+  font-weight: 600;
+  font-size: 120%;
+  color: white;
+  background-color: #F48874;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

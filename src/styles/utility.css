@@ -1,0 +1,78 @@
+.p-8 {
+  padding: 8px;
+}
+
+.pl-4 {
+  padding-left: 4em;
+}
+
+.pr-4 {
+  padding-right: 4em;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mb-o {
+  margin-bottom: 0;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.mb-25 {
+  margin-bottom: 25px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-25 {
+  margin-top: 25px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.mt-100 {
+  margin-top: 100px;
+}
+
+.h-c {
+  display: flex;
+  justify-content: center;
+}
+
+.h-spa {
+  display: flex;
+  justify-content: space-around;
+}
+
+.w-19 {
+  max-width: 19em;
+  margin: auto;
+}
+
+.fs-120 {
+  font-size: 120%;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.ai-c {
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
